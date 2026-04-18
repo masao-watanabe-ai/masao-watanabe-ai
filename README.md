@@ -2,7 +2,7 @@
 Turn AI outputs into reproducible, controllable decisions
 
 ## Problem
-Why AI systems stop in production
+Why AI systems stop in production. AI systems produce signals, but not decisions
 
 ## Solution
 Decision Trace Model
@@ -12,10 +12,11 @@ Decision Trace Model
 👉 https://multi-agent-demo-nine.vercel.app/
 
 ## Architecture
+
 Decision Flow:
 Event → Signal → Decision → Boundary → Human → Log
 
-## OSS
+## OSS Ecosystem
 
 ### Core
 - decision-trace-model  
