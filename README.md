@@ -2,7 +2,7 @@
 Turn AI outputs into reproducible, controllable decisions
 
 ## Problem
-Why AI systems stop in production. AI systems produce signals, but not decisions
+Why AI systems stop in production. (AI systems produce signals, but not decisions)
 
 ## Solution
 Decision Trace Model
