@@ -1,4 +1,5 @@
 # AI is not prediction. It is decision.
+Turn AI outputs into reproducible, controllable decisions
 
 ## Problem
 Why AI systems stop in production
