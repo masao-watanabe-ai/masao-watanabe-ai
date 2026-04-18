@@ -7,17 +7,18 @@ Why AI stops in production
 Decision Trace Model
 
 ## Demo
-👉 Vercel demo link
+👉  https://manufacturing-demo-local.vercel.app/
+👉  https://multi-agent-demo-nine.vercel.app/
 
 ## Architecture
 (Event → Signal → Decision → Boundary → Human → Log)
 
 ## OSS
-- decision-trace-model
-- ledger
-- studio
+- decision-trace-model (https://github.com/masao-watanabe-ai/decision-trace-model)
+- ledger (https://github.com/masao-watanabe-ai/Decision-Trace-Ledger-Core)
+- studio (https://github.com/masao-watanabe-ai/multi-agent-orchestrator-core)
 
 ## Quick Start
-👉 Starter Kit
+👉 Starter Kit (https://github.com/masao-watanabe-ai/light-dtm-starter-kit-cs)
 
 ## Blog / LinkedIn
