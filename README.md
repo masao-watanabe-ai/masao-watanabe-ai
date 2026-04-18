@@ -1,7 +1,7 @@
 # AI is not prediction. It is decision.
 
 ## Problem
-Why AI stops in production
+Why AI systems stop in production
 
 ## Solution
 Decision Trace Model
@@ -11,12 +11,19 @@ Decision Trace Model
 👉  https://multi-agent-demo-nine.vercel.app/
 
 ## Architecture
-(Event → Signal → Decision → Boundary → Human → Log)
+Decision Flow:
+Event → Signal → Decision → Boundary → Human → Log
 
 ## OSS
-- decision-trace-model (https://github.com/masao-watanabe-ai/decision-trace-model)
-- ledger (https://github.com/masao-watanabe-ai/Decision-Trace-Ledger-Core)
-- studio (https://github.com/masao-watanabe-ai/multi-agent-orchestrator-core)
+Core:
+- decision-trace-model  https://github.com/masao-watanabe-ai/decision-trace-model
+- Decision Trace Ledger  https://github.com/masao-watanabe-ai/Decision-Trace-Ledger-Core)
+
+Execution:
+- multi-agent-orchestrator-core  https://github.com/masao-watanabe-ai/multi-agent-orchestrator-core
+
+Design:
+- Decision Trace Studio  https://github.com/masao-watanabe-ai/decision-trace-studio
 
 ## Quick Start
 👉 Starter Kit (https://github.com/masao-watanabe-ai/light-dtm-starter-kit-cs)
