@@ -17,7 +17,7 @@ Event → Signal → Decision → Boundary → Human → Log
 ## OSS
 Core:
 - decision-trace-model  https://github.com/masao-watanabe-ai/decision-trace-model
-- Decision Trace Ledger  https://github.com/masao-watanabe-ai/Decision-Trace-Ledger-Core)
+- Decision Trace Ledger  https://github.com/masao-watanabe-ai/Decision-Trace-Ledger-Core
 
 Execution:
 - multi-agent-orchestrator-core  https://github.com/masao-watanabe-ai/multi-agent-orchestrator-core
@@ -26,7 +26,7 @@ Design:
 - Decision Trace Studio  https://github.com/masao-watanabe-ai/decision-trace-studio
 
 ## Quick Start
-👉 Starter Kit (https://github.com/masao-watanabe-ai/light-dtm-starter-kit-cs)
+👉 Starter Kit https://github.com/masao-watanabe-ai/light-dtm-starter-kit-cs
 
 ## Learn More
 
