@@ -21,4 +21,16 @@ Decision Trace Model
 ## Quick Start
 👉 Starter Kit (https://github.com/masao-watanabe-ai/light-dtm-starter-kit-cs)
 
-## Blog / LinkedIn
+## Learn More
+
+📖 Blog  
+Deep dive into Decision Trace Model, architecture, and real-world use cases  
+👉 https://deus-ex-machina-ism.com  
+
+💼 LinkedIn  
+Insights, discussions, and latest updates  
+👉 www.linkedin.com/in/masao-watanabe-ai  
+
+🧠 From Concept to System  
+Design, simulate, and improve decision systems  
+👉 https://github.com/masao-watanabe-ai/decision-trace-studio
