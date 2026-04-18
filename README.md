@@ -1,16 +1,23 @@
-## Hi there 👋
+# AI is not prediction. It is decision.
 
-<!--
-**masao-watanabe-ai/masao-watanabe-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Problem
+Why AI stops in production
 
-Here are some ideas to get you started:
+## Solution
+Decision Trace Model
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Demo
+👉 Vercel demo link
+
+## Architecture
+(Event → Signal → Decision → Boundary → Human → Log)
+
+## OSS
+- decision-trace-model
+- ledger
+- studio
+
+## Quick Start
+👉 Starter Kit
+
+## Blog / LinkedIn
