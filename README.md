@@ -30,7 +30,13 @@ Event → Signal → Decision → Boundary → Human → Log
 
 ### Design
 - Decision Trace Studio  
-  https://github.com/masao-watanabe-ai/decision-trace-studio  
+  https://github.com/masao-watanabe-ai/decision-trace-studio
+
+### Learning
+- decision-trace-gnn-core  
+  https://github.com/masao-watanabe-ai/decision-trace-gnn-core  
+
+  Learn decision structures from traceable decision data using Graph Neural Networks.
 
 ## Quick Start
 👉 Starter Kit https://github.com/masao-watanabe-ai/light-dtm-starter-kit-cs
