@@ -43,6 +43,17 @@ Event → Signal → Decision → Boundary → Human → Log
 
 ## Learn More
 
+📘 Book  
+This concept has been compiled into a practical guide.
+
+"AI is not prediction. It is decision."  
+— Decision Trace Model Practical Guide —
+
+Available now on Kindle  
+English edition coming soon  
+
+👉 https://amzn.to/3Oso8Od
+
 📖 Blog  
 Deep dive into Decision Trace Model, architecture, and real-world use cases  
 👉 https://deus-ex-machina-ism.com  
