@@ -23,11 +23,18 @@ Decision Trace Model
 ## Architecture
 
 Decision Flow:
-Event → Signal → Decision → Boundary → Human → Log
+Interaction → Signal → Decision → Boundary → Human → Log
 
 ---
 
 ## OSS Ecosystem
+
+### Input / Interaction
+- interaction-core  
+  https://github.com/masao-watanabe-ai/interaction-core  
+  → Input / interaction layer for decision systems
+
+---
 
 ### Core (Decision Layer)
 - decision-trace-model  
