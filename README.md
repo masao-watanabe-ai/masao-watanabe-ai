@@ -56,8 +56,13 @@ Interaction → Signal → Decision → Boundary → Human → Log
 ---
 
 ### Design
-- Decision Trace Studio  
+- Decision Trace Studio (v1)  
   https://github.com/masao-watanabe-ai/decision-trace-studio  
+  → Reference / initial implementation  
+
+- Decision Trace Studio v2  
+  https://github.com/masao-watanabe-ai/decision-trace-studio-v2  
+  → Next-generation design & simulation environment  
 
 ---
 
@@ -104,4 +109,4 @@ Insights, discussions, and latest updates
 
 ### 🧠 From Concept to System  
 Design, simulate, and improve decision systems  
-👉 https://github.com/masao-watanabe-ai/decision-trace-studio
+👉 https://github.com/masao-watanabe-ai/decision-trace-studio-v2
