@@ -40,6 +40,10 @@ Interaction → Signal → Decision → Boundary → Human → Log
 - decision-trace-model  
   https://github.com/masao-watanabe-ai/decision-trace-model  
 
+- decision-runtime-core  
+  https://github.com/masao-watanabe-ai/decision-runtime-core  
+  → Decision execution engine (Decision OS Kernel)
+
 - Decision Trace Ledger  
   https://github.com/masao-watanabe-ai/Decision-Trace-Ledger-Core  
 
