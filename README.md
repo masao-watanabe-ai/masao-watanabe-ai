@@ -88,10 +88,10 @@ The runtime is the **single point of decision**:
 - decision-trace-ledger-core-k2  
   https://github.com/masao-watanabe-ai/decision-trace-ledger-core-k2  
   → Append-only, hash-chained ledger for traceable and reproducible decisions
-
-- dtm-view-core  
-  https://github.com/masao-watanabe-ai/dtm-view-core  
-  → Visualizes decisions and traces  
+ 
+- dtm-view-core-v2  
+  https://github.com/masao-watanabe-ai/dtm-view-core-v2  
+  → Decision Trace Interface — visualizes and explores runtime decision traces  
 
 ---
 
@@ -128,6 +128,10 @@ The runtime is the **single point of decision**:
 - interaction-core  
   https://github.com/masao-watanabe-ai/interaction-core  
   → Input / interaction layer
+
+- dtm-view-core  
+  https://github.com/masao-watanabe-ai/dtm-view-core  
+  → Legacy decision trace viewer (superseded by dtm-view-core-v2) 
 
 - Decision-Trace-Ledger-Core (v1)  
   https://github.com/masao-watanabe-ai/Decision-Trace-Ledger-Core  
