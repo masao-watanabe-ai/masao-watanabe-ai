@@ -73,6 +73,8 @@ The runtime is the **single point of decision**:
 
 ---
 
+👉 Runtime makes decisions. Ledger records them. View makes them understandable.
+
 ### Core (Decision System)
 
 - decision-runtime-core  
@@ -83,9 +85,9 @@ The runtime is the **single point of decision**:
   https://github.com/masao-watanabe-ai/decision-trace-model  
   → Conceptual model of decisions  
 
-- Decision Trace Ledger  
-  https://github.com/masao-watanabe-ai/Decision-Trace-Ledger-Core  
-  → Stores decision traces (audit / replay / governance)  
+- decision-trace-ledger-core-k2  
+  https://github.com/masao-watanabe-ai/decision-trace-ledger-core-k2  
+  → Append-only, hash-chained ledger for traceable and reproducible decisions
 
 - dtm-view-core  
   https://github.com/masao-watanabe-ai/dtm-view-core  
@@ -118,6 +120,14 @@ The runtime is the **single point of decision**:
 - decision-trace-gnn-core  
   https://github.com/masao-watanabe-ai/decision-trace-gnn-core  
   → Learn decision structures from traceable decision data using Graph Neural Networks
+
+---
+
+### Legacy
+
+- Decision-Trace-Ledger-Core (v1)  
+  https://github.com/masao-watanabe-ai/Decision-Trace-Ledger-Core  
+  → Initial standalone ledger implementation (superseded by k2)
 
 ---
 
