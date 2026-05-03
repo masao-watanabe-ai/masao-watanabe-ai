@@ -72,37 +72,40 @@ The runtime is the **single point of decision**:
 ## OSS Ecosystem
 
 ### Input / Interaction
+
 - interaction-core  
   https://github.com/masao-watanabe-ai/interaction-core  
-  → Input / interaction layer for decision systems
+  → Input / interaction layer
 
 ---
 
-### Core (Decision Layer)
-
-- decision-trace-model  
-  https://github.com/masao-watanabe-ai/decision-trace-model  
-  → Conceptual model for structuring decisions
+### Core (Decision System)
 
 - decision-runtime-core  
   https://github.com/masao-watanabe-ai/decision-runtime-core  
-  → **Decision OS Kernel**  
-  → The single point where signals are evaluated and decisions are finalized
+  → **Decision OS Kernel (center of the system)**  
+
+- decision-trace-model  
+  https://github.com/masao-watanabe-ai/decision-trace-model  
+  → Conceptual model of decisions  
 
 - Decision Trace Ledger  
   https://github.com/masao-watanabe-ai/Decision-Trace-Ledger-Core  
-  → Stores decision traces for auditability and reproducibility
+  → Stores decision traces (audit / replay / governance)  
 
 - dtm-view-core  
   https://github.com/masao-watanabe-ai/dtm-view-core  
-  → Visualizes decision structures and traces
+  → Visualizes decisions and traces  
 
 ---
 
 ### Execution
+
 - multi-agent-orchestrator-core  
   https://github.com/masao-watanabe-ai/multi-agent-orchestrator-core  
-  → Executes actions based on finalized decisions
+  → Executes actions based on finalized decisions  
+
+👉 Execution does NOT decide. It follows decisions.
 
 ---
 
