@@ -67,9 +67,9 @@ The runtime is the **single point of decision**:
 
 ### Input / Interaction
 
-- interaction-core  
-  https://github.com/masao-watanabe-ai/interaction-core  
-  → Input / interaction layer
+- interaction-core-v2  
+  https://github.com/masao-watanabe-ai/interaction-core-v2  
+  → Input / Interaction Layer for Decision OS — converts messages and evidence into structured signals
 
 ---
 
@@ -124,6 +124,10 @@ The runtime is the **single point of decision**:
 ---
 
 ### Legacy
+
+- interaction-core  
+  https://github.com/masao-watanabe-ai/interaction-core  
+  → Input / interaction layer
 
 - Decision-Trace-Ledger-Core (v1)  
   https://github.com/masao-watanabe-ai/Decision-Trace-Ledger-Core  
