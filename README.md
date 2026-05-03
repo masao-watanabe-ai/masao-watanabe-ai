@@ -22,8 +22,10 @@ Decision Trace Model
 
 ## Architecture
 
-Decision Flow:
-Interaction → Signal → Decision → Boundary → Human → Log
+Decision Flow:  
+Interaction → Signal → **Decision (Runtime)** → Boundary → Human → Log
+
+👉 All decisions are evaluated and finalized in **decision-runtime-core**
 
 ---
 
@@ -37,25 +39,30 @@ Interaction → Signal → Decision → Boundary → Human → Log
 ---
 
 ### Core (Decision Layer)
+
 - decision-trace-model  
   https://github.com/masao-watanabe-ai/decision-trace-model  
+  → Conceptual model for structuring decisions
 
 - decision-runtime-core  
   https://github.com/masao-watanabe-ai/decision-runtime-core  
-  → Decision execution engine (Decision OS Kernel)
+  → **Decision OS Kernel**  
+  → The single point where signals are evaluated and decisions are finalized
 
 - Decision Trace Ledger  
   https://github.com/masao-watanabe-ai/Decision-Trace-Ledger-Core  
+  → Stores decision traces for auditability and reproducibility
 
 - dtm-view-core  
   https://github.com/masao-watanabe-ai/dtm-view-core  
-  → Decision system interface for visualizing decision structures
+  → Visualizes decision structures and traces
 
 ---
 
 ### Execution
 - multi-agent-orchestrator-core  
   https://github.com/masao-watanabe-ai/multi-agent-orchestrator-core  
+  → Executes actions based on finalized decisions
 
 ---
 
@@ -66,15 +73,14 @@ Interaction → Signal → Decision → Boundary → Human → Log
 
 - Decision Trace Studio v2  
   https://github.com/masao-watanabe-ai/decision-trace-studio-v2  
-  → Next-generation design & simulation environment  
+  → Design, simulate, and improve decision systems  
 
 ---
 
 ### Learning
 - decision-trace-gnn-core  
   https://github.com/masao-watanabe-ai/decision-trace-gnn-core  
-
-  Learn decision structures from traceable decision data using Graph Neural Networks.
+  → Learn decision structures from traceable decision data using Graph Neural Networks
 
 ---
 
@@ -110,7 +116,3 @@ Insights, discussions, and latest updates
 👉 https://www.linkedin.com/in/masao-watanabe-ai  
 
 ---
-
-### 🧠 From Concept to System  
-Design, simulate, and improve decision systems  
-👉 https://github.com/masao-watanabe-ai/decision-trace-studio-v2
