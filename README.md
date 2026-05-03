@@ -4,13 +4,32 @@ Turn AI outputs into reproducible, controllable decisions
 ---
 
 ## Problem
-Why AI systems stop in production.  
-AI systems produce signals, but not decisions.
+AI systems stop in production.
+
+Why?
+
+Because AI produces **signals**, not **decisions**.
+
+- Predictions are probabilistic
+- Decisions are accountable
+- Signals are continuous
+- Decisions are discrete
+
+👉 This gap breaks real-world systems.
 
 ---
 
 ## Solution
 Decision Trace Model
+
+👉 A system that turns signals into **traceable, controllable decisions**
+
+---
+
+## Core Principle
+
+AI produces signals.  
+**Only the runtime produces decisions.**
 
 ---
 
@@ -22,10 +41,31 @@ Decision Trace Model
 
 ## Architecture
 
-Decision Flow:  
+Decision Flow:
+
 Interaction → Signal → **Decision (Runtime)** → Boundary → Human → Log
 
-👉 All decisions are evaluated and finalized in **decision-runtime-core**
+👉 All decisions are evaluated and finalized in the runtime.
+
+---
+
+## Decision Runtime
+
+### decision-runtime-core  
+https://github.com/masao-watanabe-ai/decision-runtime-core  
+
+→ **Decision OS Kernel**
+
+The runtime is the **single point of decision**:
+
+- Evaluates signals
+- Applies decision logic
+- Enforces boundaries
+- Invokes human gates
+- Produces execution-ready outcomes
+- Records full decision traces
+
+👉 Without this layer, AI outputs remain uncontrolled signals.
 
 ---
 
