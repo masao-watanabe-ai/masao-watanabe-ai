@@ -33,12 +33,6 @@ AI produces signals.
 
 ---
 
-## Demo
-👉 https://manufacturing-demo-local.vercel.app/  
-👉 https://multi-agent-demo-nine.vercel.app/
-
----
-
 ## Architecture
 
 Decision Flow:
@@ -127,9 +121,44 @@ The runtime is the **single point of decision**:
 
 ---
 
+## Demo
+👉 https://manufacturing-demo-local.vercel.app/  
+👉 https://multi-agent-demo-nine.vercel.app/
+
+---
+
 ## Quick Start
 👉 Starter Kit  
 https://github.com/masao-watanabe-ai/light-dtm-starter-kit-cs
+
+---
+
+## Why this matters
+
+Most AI systems fail not because of model quality,  
+but because **decisions are not designed**.
+
+- No clear responsibility
+- No reproducibility
+- No auditability
+- No boundary control
+
+DTM solves this by making decisions:
+
+- Explicit  
+- Structured  
+- Reproducible  
+- Governed  
+
+---
+
+## From AI to Decision Systems
+
+Traditional AI:
+Data → Model → Prediction → ??? → Human
+
+DTM:
+Interaction → Signal → Runtime → Decision → Execution → Log
 
 ---
 
