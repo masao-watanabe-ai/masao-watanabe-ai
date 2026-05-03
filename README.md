@@ -146,8 +146,11 @@ The runtime is the **single point of decision**:
 ---
 
 ## Quick Start
-👉 Starter Kit  
-https://github.com/masao-watanabe-ai/light-dtm-starter-kit-cs
+👉 Starter Kit (v2 – Runtime-connected)  
+https://github.com/masao-watanabe-ai/light-dtm-starter-kit-cs-v2  
+
+👉 Starter Kit (v1 – Standalone / local decision)  
+https://github.com/masao-watanabe-ai/light-dtm-starter-kit-cs  
 
 ---
 
