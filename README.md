@@ -117,9 +117,11 @@ The runtime is the **single point of decision**:
 ---
 
 ### Learning
-- decision-trace-gnn-core  
-  https://github.com/masao-watanabe-ai/decision-trace-gnn-core  
-  → Learn decision structures from traceable decision data using Graph Neural Networks
+- decision-trace-gnn-core-v2  
+  https://github.com/masao-watanabe-ai/decision-trace-gnn-core-v2  
+  → Learning layer of Decision OS — learns from ledgered decision traces and emits signals for the runtime
+
+👉 GNN does NOT make decisions. Runtime remains the only decision authority.
 
 ---
 
@@ -128,6 +130,9 @@ The runtime is the **single point of decision**:
 - interaction-core  
   https://github.com/masao-watanabe-ai/interaction-core  
   → Input / interaction layer
+
+- decision-trace-gnn-core (v1)  
+  https://github.com/masao-watanabe-ai/decision-trace-gnn-core 
 
 - dtm-view-core  
   https://github.com/masao-watanabe-ai/dtm-view-core  
