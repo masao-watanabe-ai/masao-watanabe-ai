@@ -97,11 +97,11 @@ The runtime is the **single point of decision**:
 
 ### Execution
 
-- multi-agent-orchestrator-core  
-  https://github.com/masao-watanabe-ai/multi-agent-orchestrator-core  
-  → Executes actions based on finalized decisions  
+- multi-agent-orchestrator-core-v2  
+  https://github.com/masao-watanabe-ai/multi-agent-orchestrator-core-v2  
+  → Execution layer for Decision Runtime OS  
 
-👉 Execution does NOT decide. It follows decisions.
+👉 Execution does NOT decide. It follows runtime decisions.
 
 ---
 
@@ -136,6 +136,9 @@ The runtime is the **single point of decision**:
 - Decision-Trace-Ledger-Core (v1)  
   https://github.com/masao-watanabe-ai/Decision-Trace-Ledger-Core  
   → Initial standalone ledger implementation (superseded by k2)
+
+- multi-agent-orchestrator-core (v1)  
+  https://github.com/masao-watanabe-ai/multi-agent-orchestrator-core  
 
 ---
 
