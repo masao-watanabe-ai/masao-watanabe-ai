@@ -81,9 +81,9 @@ The runtime is the **single point of decision**:
   https://github.com/masao-watanabe-ai/decision-runtime-core  
   → **Decision OS Kernel (center of the system)**  
 
-- decision-trace-model  
-  https://github.com/masao-watanabe-ai/decision-trace-model  
-  → Conceptual model of decisions  
+- decision-trace-model-v2  
+  https://github.com/masao-watanabe-ai/decision-trace-model-v2  
+  → **Decision protocol specification**  
 
 - decision-trace-ledger-core-k2  
   https://github.com/masao-watanabe-ai/decision-trace-ledger-core-k2  
@@ -126,6 +126,9 @@ The runtime is the **single point of decision**:
 ---
 
 ### Legacy
+
+- decision-trace-model  
+  https://github.com/masao-watanabe-ai/decision-trace-model  
 
 - interaction-core  
   https://github.com/masao-watanabe-ai/interaction-core  
