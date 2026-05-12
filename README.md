@@ -196,16 +196,39 @@ Interaction → Signal → Runtime → Decision → Execution → Log
 
 ## Learn More
 
-### 📘 Book  
-This concept has been compiled into a practical guide.
+### 📘 Books
 
-"AI is not prediction. It is decision."  
+These ideas have been compiled into the following books.
+
+#### 🇯🇵 Japanese Editions
+
+**AI is not prediction. It is decision.**
 — Decision Trace Model Practical Guide —
+A practical guide for designing AI as a decision system.
 
-Available now on Kindle  
-English edition coming soon  
+Available on Kindle
+👉 https://amzn.to/4twsoui
 
-👉 https://amzn.to/3Oso8Od
+**Intelligence Field — AI from “Intelligence” to “Relationship”**
+Exploring intelligence as relationships between AI, humans, organizations, and society.
+
+Available on Kindle
+👉 https://amzn.to/4uN51hl
+
+#### 🇺🇸 English Editions
+
+**AI is not prediction. It is decision.**
+— Decision Trace Model Practical Guide —
+A practical guide for designing AI as a decision system.
+
+Available on Kindle
+👉 https://www.amazon.com/dp/B0GX2XWJJG
+
+**Intelligence Field — Intelligence as Relationship**
+A new perspective on AI, relational intelligence, and social intelligence fields.
+
+Available on Kindle
+👉 https://www.amazon.com/dp/B0H1GM1M75
 
 ---
 
