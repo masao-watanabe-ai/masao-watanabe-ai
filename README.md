@@ -215,6 +215,20 @@ Exploring intelligence as relationships between AI, humans, organizations, and s
 Available on Kindle
 👉 https://amzn.to/4uN51hl
 
+**What Kind of Mathematical Worldview Is AI Built Upon?**
+— From Finite Rules to Generative Models —
+
+Available on Kindle
+👉 https://amzn.to/4frireb
+
+**Intelligence Field Economics**
+— Chinōba Keizai —
+*Trust, Knowledge and Coordination in the AI Era*
+
+Available on Kindle
+👉 https://amzn.to/49A4JC8
+
+
 #### 🇺🇸 English Editions
 
 **AI is not prediction. It is decision.**
@@ -229,6 +243,19 @@ A new perspective on AI, relational intelligence, and social intelligence fields
 
 Available on Kindle
 👉 https://www.amazon.com/dp/B0H1GM1M75
+
+**What Kind of Mathematical Worldview Is AI Built Upon?**
+— From Finite Rules to Generative Models —
+
+Available on Kindle
+👉 https://amzn.to/3PcGpzs
+
+**Intelligence Field Economics**
+— Chinōba Keizai —
+*Trust, Knowledge and Coordination in the AI Era*
+
+Available on Kindle
+👉 https://amzn.to/49HvoNp
 
 ---
 
