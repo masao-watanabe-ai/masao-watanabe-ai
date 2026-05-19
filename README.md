@@ -3,6 +3,13 @@ Turn AI outputs into reproducible, controllable decisions
 
 ---
 
+Chinoba
+Intelligence as Relationship
+
+https://chinoba.org
+
+---
+
 ## Problem
 AI systems stop in production.
 
