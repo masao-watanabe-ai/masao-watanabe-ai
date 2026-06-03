@@ -209,6 +209,20 @@ These ideas have been compiled into the following books.
 
 #### 🇯🇵 Japanese Editions
 
+**Decision Trace Model 実践導入ガイド**
+— 製造・医療・リテール・マルチエージェントで学ぶAI意思決定システム —
+Decision Trace Model（DTM）の実践的なケーススタディや導入方法をまとめました。
+
+Available on Kindle
+👉 https://amzn.to/4o5oyXT
+
+**Trust Infrastructure AI時代の信用基盤**
+— Trace・Reputation・Coordinationが支える次世代社会 —
+AI時代の信用基盤（Trust Infrastructure）を解説しました。
+
+Available on Kindle
+👉 https://amzn.to/3RJgQHa
+
 **AI is not prediction. It is decision.**
 — Decision Trace Model Practical Guide —
 A practical guide for designing AI as a decision system.
@@ -237,6 +251,20 @@ Available on Kindle
 
 
 #### 🇺🇸 English Editions
+
+**Decision Trace Model Practical Implementation Guide**
+— A Practical Guide to Connecting AI-Powered Judgment to Real-World Organizational Implementation —
+A practical implementation guide for applying Decision Trace Model (DTM) to manufacturing, healthcare, retail, and multi-agent systems.
+
+Available on Kindle
+👉 https://amzn.to/4x5zNUo
+
+**The Trust Infrastructure in the Age of AI**
+— How Trace, Reputation, and Coordination Power the Next Generation Society —
+This book explains the concept of Trust Infrastructure and explores how trust, reputation, verification, and coordination form the foundation of society in the AI era.
+
+Available on Kindle
+👉 https://amzn.to/4dNGtiE
 
 **AI is not prediction. It is decision.**
 — Decision Trace Model Practical Guide —
