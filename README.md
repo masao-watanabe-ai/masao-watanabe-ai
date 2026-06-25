@@ -330,7 +330,7 @@ both Japanese and English. Two starting points:
 - **AI is not prediction. It is decision.** — the Decision Trace Model in practice
   https://www.amazon.com/dp/B0GX2XWJJG
 
-→ Full bibliography (JP & EN): [`docs/books/`](docs/books/)
+→ Full bibliography (JP & EN): [`docs/books/`](https://chinoba.org/library/)
 
 ---
 
@@ -357,7 +357,7 @@ Between society.
 
 - **Website** — [chinoba.org](https://chinoba.org)
 - **Research Blog** — [deus-ex-machina-ism.com](https://deus-ex-machina-ism.com)
-- **Books** — [full bibliography](docs/books/)
+- **Books** — [full bibliography](https://chinoba.org/library/)
 - **YouTube** — [Chinoba Research Archive](https://www.youtube.com/@masawata-f2f)
 - **LinkedIn** — [masao-watanabe-ai](https://www.linkedin.com/in/masao-watanabe-ai)
 
