@@ -2,9 +2,10 @@
 
 *Coordination Stream · Chinoba Research*
 
-Real systems are many agents acting at once. This theme carries shared
-decisions across them without losing accountability.
+Real systems are many agents acting at once. This theme carries shared decisions across them without losing accountability.
 
 > Detailed documentation is in progress.
+>
+> **→ [Read the full Multi-Agent Coordination research](https://chinoba.org/research/multi-agent-systems/)**
 
 ← Back to the [Chinoba overview](../../README.md)
